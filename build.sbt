@@ -1,5 +1,7 @@
 name := "graph-algos"
 
+organization := "com.iamsmkr"
+
 version := "0.1"
 
 scalaVersion := "2.13.5"
